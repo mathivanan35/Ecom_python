@@ -1,0 +1,12 @@
+btn_addAddress_xpath = "//div[@class='_1P2-0f']"
+txt_name_xpath = "(//input[@class='_1w3ZZo _2mFmU7'])[1]"
+txt_mobile_xpath = "(//input[@class='_1w3ZZo _2mFmU7'])[2]"
+txt_pincode_xpath = "(//input[@class='_1w3ZZo _2mFmU7'])[3]"
+txt_locality_xpath = "(//input[@class='_1w3ZZo _2mFmU7'])[4]"
+txt_areaAddress_xpath = "//textarea[@class='_1sQQBU _1w3ZZo _1TO48q']"
+txt_city_xpath = "(//input[@class='_1w3ZZo _2mFmU7'])[5]"
+
+dropdown_state_xpath = "//select[@class='_1EDlbo _1lRtwc jE2jGc _2gIrb5']"
+btn_addressType_xpath = "//*[contains(text(),'Home (All day delivery)')]"
+btn_saveAndDeliverHere_xpath = "(//button[@class='_2KpZ6l _1JDhFS _3AWRsL'])"
+btn_continueToPayment_xpath = "(//button[@class='_2KpZ6l _1seccl _3AWRsL'])"
